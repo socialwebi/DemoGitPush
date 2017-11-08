@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DemoGitPush.iml" filepath="$PROJECT_DIR$/DemoGitPush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DemoGitPush.iml" filepath="$PROJECT_DIR$/.idea/DemoGitPush.iml" />
+      <module fileurl="file://E:\NewWork\DemoGitPush\DemoGitPush.iml" filepath="E:\NewWork\DemoGitPush\DemoGitPush.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\NewWork\DemoGitPush\app\app.iml" filepath="E:\NewWork\DemoGitPush\app\app.iml" />
     </modules>
   </component>
 </project>
