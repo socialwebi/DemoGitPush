@@ -10,12 +10,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        initView(); 
+        initView();
     }
 
     public void initView(){
 
         Toast.makeText(MainActivity.this, " Success: ", Toast.LENGTH_SHORT).show();
-
+//adding code to checking branch and update
     }
 }
