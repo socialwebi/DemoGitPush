@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void initView(){
 
-        Toast.makeText(MainActivity.this, " Success ", Toast.LENGTH_SHORT).show();
+        Toast.makeText(MainActivity.this, " Success: ", Toast.LENGTH_SHORT).show();
 
     }
 }
